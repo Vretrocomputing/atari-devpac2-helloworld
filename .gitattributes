@@ -1,1 +1,1 @@
-*.S text eol=crlf working-tree-encoding=ATARIST linguist-language=m68k
+*.S text eol=crlf working-tree-encoding=CP437 linguist-language=m68k
