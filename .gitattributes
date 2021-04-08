@@ -1,1 +1,3 @@
 *.S text eol=crlf working-tree-encoding=CP437 linguist-language=m68k
+.gitattributes export-ignore
+README.md export-ignore
